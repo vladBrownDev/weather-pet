@@ -1,0 +1,13 @@
+@import "../global.scss";
+
+header {
+  height: 100px;
+  background-color: $primary;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Source Sans Pro", sans-serif;
+  color: yellow;
+  font-size: 40px;
+  font-weight: 600;
+}
